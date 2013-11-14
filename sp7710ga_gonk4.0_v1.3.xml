@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="aosp" fetch="https://android.googlesource.com/" />
+  <remote name="aosp" fetch="http://sprdsource.spreadtrum.com:8085/b2g/android" />
   <remote name="b2g" fetch="git://github.com/mozilla-b2g/" />
   <remote name="mozilla" fetch="git://github.com/mozilla/" />
   <remote name="apitrace" fetch="git://github.com/apitrace/" />
