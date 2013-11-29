@@ -102,7 +102,7 @@
   <project path="system/vold" name="platform/system/vold" />
  
   <!-- sprd things -->
-  <project path="kernel" name="kernel/common" remote="sprd-aosp" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7"/>
+  <project path="kernel" name="kernel/common" remote="sprd-aosp" revision="sprdb2g_gonk4.0"/>
   <project path="u-boot" name="u-boot" remote="sprd-aosp" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7"/>
   <project path="device/sprd" name="device/sprd" remote="sprd-aosp" revision="sprdroid4.0_bsp" />
   <project path="vendor/sprd/proprietories" name="vendor/sprd/proprietories" remote="sprd-aosp" revision="sprdroid4.0_bsp" />
