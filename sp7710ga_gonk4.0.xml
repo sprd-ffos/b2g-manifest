@@ -25,15 +25,13 @@
 
   <!-- Stock Android things -->
   <project path="abi/cpp" name="platform/abi/cpp" />
-  <project path="bionic" name="platform/bionic" remote="sprd-aosp" revision="sprdroid4.0_bsp"/>
+  <project path="bionic" name="platform/bionic" revision="sprdroid4.0_bsp"/>
   <project path="bootable/recovery" name="platform/bootable/recovery" />
-  <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
-  <project path="device/sample" name="device/sample" />
   <project path="external/apriori" name="platform_external_apriori" remote="b2g" revision="v1.2f" />
-  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="sprd-aosp" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7"/>
-  <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" remote="sprd-aosp" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7"/>
-  <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" remote="sprd-aosp" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7"/>
+  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7"/>
+  <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7"/>
+  <project path="external/bluetooth/hcidump" name="platform/external/bluetooth/hcidump" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7"/>
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/bzip2" name="platform/external/bzip2" />
   <project path="external/dbus" name="platform/external/dbus" />
@@ -52,15 +50,13 @@
   <project path="external/icu4c" name="platform/external/icu4c" />
   <project path="external/iproute2" name="platform/external/iproute2" />
   <project path="external/iptables" name="platform/external/iptables" />
-  <project path="external/jhead" name="platform/external/jhead" />
+  <project path="external/jhead" name="platform/external/jhead" revision="sprdb2g_gonk4.0" />
   <project path="external/jpeg" name="platform/external/jpeg" />
   <project path="external/libgsm" name="platform/external/libgsm" />
   <project path="external/liblzf" name="platform/external/liblzf" />
-  <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" />
   <project path="external/libnl-headers" name="platform/external/libnl-headers" />
   <project path="external/libpng" name="platform/external/libpng" />
   <project path="external/libvpx" name="platform/external/libvpx" />
-  <project path="external/llvm" name="platform/external/llvm" />
   <project path="external/mksh" name="platform/external/mksh" />
   <project path="external/opensans" name="platform_external_opensans" remote="b2g" revision="v1.2f" />
   <project path="external/openssl" name="platform/external/openssl" />
@@ -73,9 +69,8 @@
   <project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/stlport" name="platform/external/stlport" />
   <project path="external/strace" name="platform/external/strace" />
-  <project path="external/svox" name="platform/external/svox" />
   <project path="external/tagsoup" name="platform/external/tagsoup" />
-  <project path="external/tinyalsa" name="platform/external/tinyalsa" remote="sprd-aosp" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7" />
+  <project path="external/tinyalsa" name="platform/external/tinyalsa" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7" />
   <project path="external/tremolo" name="platform/external/tremolo" />
   <project path="external/webp" name="platform/external/webp" />
   <project path="external/webrtc" name="platform/external/webrtc" />
@@ -83,21 +78,21 @@
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
-  <project path="frameworks/base" name="platform/frameworks/base" remote="sprd-aosp" revision="sprdb2g_gonk4.0"/>
+  <project path="frameworks/base" name="platform/frameworks/base" revision="sprdb2g_gonk4.0"/>
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" />
   <project path="frameworks/support" name="platform/frameworks/support" />
-  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" remote="sprd-aosp" revision="sprdroid4.0_bsp"/>
+  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" revision="sprdroid4.0_bsp"/>
   <project path="hardware/invensense" name="platform/hardware/invensense" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" remote="sprd-aosp" revision="sprdroid4.0_bsp"/>
-  <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" remote="sprd-aosp" revision="sprdroid4.0_bsp"/>
+  <project path="hardware/libhardware" name="platform/hardware/libhardware" revision="sprdroid4.0_bsp"/>
+  <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" revision="sprdroid4.0_bsp"/>
   <project path="hardware/ril" name="platform/hardware/ril" />
   <project path="libcore" name="platform/libcore" />
   <project path="ndk" name="platform/ndk" />
   <project path="prebuilt" name="platform/prebuilt" />
-  <project path="system/bluetooth" name="platform/system/bluetooth" remote="sprd-aosp" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7"/>
-  <project path="system/core" name="platform/system/core" remote="sprd-aosp" revision="sprdb2g_gonk4.0"/>
+  <project path="system/bluetooth" name="platform/system/bluetooth" revision="refs/tags/MOCORDROID4.1_3.0_SP7710_13A_W13.39.7"/>
+  <project path="system/core" name="platform/system/core" revision="sprdb2g_gonk4.0"/>
   <project path="system/extras" name="platform/system/extras" />
-  <project path="system/media" name="platform/system/media" remote="sprd-aosp" revision="sprdb2g_gonk4.0"/>
+  <project path="system/media" name="platform/system/media" revision="sprdb2g_gonk4.0" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
  
