@@ -425,7 +425,7 @@
   <project path="device/sprd" name="device/sprd" revision="sprdroid4.4" />
   <project path="vendor/sprd/open-source" name="vendor/sprd/open-source" />
   <project path="vendor/sprd/partner" name="vendor/sprd/partner" />
-  <project path="vendor/sprd/proprietories" name="vendor/sprd/proprietories" />
+  <project path="vendor/sprd/proprietories" name="vendor/sprd/proprietories" revision="sprdb2g_gonk4.4" />
   <project path="vendor/sprd/UniverseUI/LockScreen" name="vendor/sprd/UniverseUI/LockScreen" />
   <project path="vendor/sprd/UniverseUI/SprdLauncher1" name="vendor/sprd/UniverseUI/SprdLauncher1" />
   <project path="vendor/sprd/UniverseUI/SprdLauncher2" name="vendor/sprd/UniverseUI/SprdLauncher2" />
