@@ -428,7 +428,6 @@
   <project path="vendor/sprd/proprietories" name="vendor/sprd/proprietories" revision="sprdb2g_gonk4.4" />
   <project path="vendor/sprd/UniverseUI/LockScreen" name="vendor/sprd/UniverseUI/LockScreen" />
   <project path="vendor/sprd/UniverseUI/SprdLauncher1" name="vendor/sprd/UniverseUI/SprdLauncher1" />
-  <project path="vendor/sprd/UniverseUI/SprdLauncher2" name="vendor/sprd/UniverseUI/SprdLauncher2" />
   <project path="vendor/sprd/UniverseUI/ThemeRes" name="vendor/sprd/UniverseUI/ThemeRes" />
   <project path="vendor/sprd/operator/cmcc" name="vendor/sprd/operator/cmcc" />
   <project path="vendor/sprd/operator/ctcc" name="vendor/sprd/operator/ctcc" />
