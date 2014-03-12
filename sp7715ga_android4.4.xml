@@ -406,7 +406,7 @@
   <project path="kernel" name="kernel/common" revision="sprdlinux3.10" />
 
   <project path="device/sprd" name="device/sprd" revision="sprdroid4.4" />
-  <project path="vendor/sprd/open-source" name="vendor/sprd/open-source" revision="sprdroid4.4" />
+  <project path="vendor/sprd/open-source" name="vendor/sprd/open-source" revision="sprdb2g_gonk4.4" />
   <project path="vendor/sprd/partner" name="vendor/sprd/partner" revision="sprdroid4.4" />
   <project path="vendor/sprd/proprietories" name="vendor/sprd/proprietories" revision="sprdb2g_gonk4.4" />
 
