@@ -34,7 +34,6 @@
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
   <project path="bootable/recovery" name="platform/bootable/recovery" groups="pdk" />
-  <project path="chipram" name="chipram" revision="sprdchipram" />
   <project path="device/common" name="device/common" />
   <project path="device/sample" name="device/sample" groups="pdk" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
@@ -167,6 +166,7 @@
 -->
 
   <!-- sprd things -->
+  <project path="chipram" name="chipram" />
   <project path="u-boot" name="u-boot" />
   <project path="kernel" name="kernel/common" />
 
