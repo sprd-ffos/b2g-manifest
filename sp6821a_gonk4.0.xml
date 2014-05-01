@@ -24,7 +24,7 @@
   <project path="external/apitrace" name="apitrace" remote="apitrace" revision="master" />
   <project name="l10n/hi-IN/gaia" path="gaia-l10n/hi-IN" remote="sprd-b2g" revision="v1.3t" />
   <project name="l10n/ta/gaia" path="gaia-l10n/ta"  remote="sprd-b2g" revision="v1.3t"  />
-  <project name="l10n/bn-BD/gaia" path="gaia-l10n/bn-BD" remote="mozillaorg" revision="sprdb2g_v1.3t" />
+  <project name="l10n/bn-BD/gaia" path="gaia-l10n/bn-BD" remote="mozillaorg" revision="v1.3" />
   <project name="l10n/ca/gaia" path="gaia-l10n/ca" remote="mozillaorg" revision="v1.3" />
   <project name="l10n/hr/gaia" path="gaia-l10n/hr" remote="mozillaorg" revision="v1.3" />
   <project name="l10n/cs/gaia" path="gaia-l10n/cs" remote="mozillaorg" revision="v1.3" />
