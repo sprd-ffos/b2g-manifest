@@ -27,7 +27,7 @@
   <project path="external/moztt" name="moztt" remote="b2g" revision="v1.4" />
   <project path="external/apitrace" name="apitrace" remote="apitrace" revision="master" />
   <project path="external/valgrind" name="platform/external/valgrind" groups="pdk" />
-
+  <project name="l10n/bn-BD/gaia" path="gaia-l10n/bn-BD" remote="mozillaorg" revision="v1.4" />
   <!-- Stock Android things -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
   <project path="bionic" name="platform/bionic" groups="pdk" />
