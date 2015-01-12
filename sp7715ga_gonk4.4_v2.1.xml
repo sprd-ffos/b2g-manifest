@@ -172,7 +172,6 @@
   <project path="vendor/sprd/partner" name="vendor/sprd/partner"  />
   <project path="vendor/sprd/gps" name="vendor/sprd/gps" />
   <project path="vendor/sprd/proprietories" name="vendor/sprd/proprietories"  />
-  <project path="vendor/sprd/proprietories-source" name="vendor/sprd/proprietories-source" />
 
   <project path="B2G" name="B2G" remote="sprd-b2g" revision="sprdroid4.0.3_vlx_3.0_b2g" />
   <project path="gaia/customize_apps" name="gaia/customize_apps" remote="sprd-b2g" revision="sprdroid4.0.3_vlx_3.0_b2g" />
